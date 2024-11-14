@@ -1,0 +1,15 @@
+{
+    "name": "Quick Transfer Coin Plus",
+    "symbol": "QTCC",
+    "image": "https://raw.githubusercontent.com/tushanafnan/Metadata-QTCC/refs/heads/main/meta.json",  
+    "attributes": [],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/tushanafnan/Metadata-QTCC/refs/heads/main/meta.json",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
